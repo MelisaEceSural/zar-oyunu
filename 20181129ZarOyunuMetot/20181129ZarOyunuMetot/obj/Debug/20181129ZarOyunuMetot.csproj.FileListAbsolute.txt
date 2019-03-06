@@ -1,0 +1,7 @@
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181129ZarOyunuMetot\20181129ZarOyunuMetot\bin\Debug\20181129ZarOyunuMetot.exe.config
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181129ZarOyunuMetot\20181129ZarOyunuMetot\bin\Debug\20181129ZarOyunuMetot.exe
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181129ZarOyunuMetot\20181129ZarOyunuMetot\bin\Debug\20181129ZarOyunuMetot.pdb
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181129ZarOyunuMetot\20181129ZarOyunuMetot\obj\Debug\20181129ZarOyunuMetot.csprojAssemblyReference.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181129ZarOyunuMetot\20181129ZarOyunuMetot\obj\Debug\20181129ZarOyunuMetot.csproj.CoreCompileInputs.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181129ZarOyunuMetot\20181129ZarOyunuMetot\obj\Debug\20181129ZarOyunuMetot.exe
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181129ZarOyunuMetot\20181129ZarOyunuMetot\obj\Debug\20181129ZarOyunuMetot.pdb
